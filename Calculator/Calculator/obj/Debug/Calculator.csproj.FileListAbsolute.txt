@@ -5,3 +5,10 @@ c:\users\logan.jones2\source\repos\Calculator\Calculator\obj\Debug\Calculator.cs
 c:\users\logan.jones2\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 c:\users\logan.jones2\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\logan.jones2\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\logan.jones2\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
